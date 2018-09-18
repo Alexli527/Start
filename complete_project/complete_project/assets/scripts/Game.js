@@ -1,4 +1,7 @@
 cc.Class({
+
+    //verson: V1.0
+
     extends: cc.Component,
 
     properties: {

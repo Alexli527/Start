@@ -5,6 +5,9 @@ cc._RF.push(module, '4e12fLSQu1L+KV6QmxDiavU', 'Game');
 'use strict';
 
 cc.Class({
+
+    //verson: V1.0
+
     extends: cc.Component,
 
     properties: {
